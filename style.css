@@ -1,0 +1,20 @@
+#plateau{
+    display: flex;
+    flex-wrap: wrap;
+    width: 53em;
+}
+
+.card{
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    margin: 10px;
+}
+
+.active{
+    background-image: url('./images/cards.png');
+}
+
+
+
+/* FLIP */
